@@ -150,28 +150,16 @@ Our vision is to build an AI Productivity Operating System that serves as a pers
 
 ---
 
-# 🛠 Tech Stack (Planned)
+# 🛠 Tech Stack
 
 ### Frontend
 
 * React.js
 * TypeScript
 * Tailwind CSS
-* Shadcn UI
 * Framer Motion
-
-### Backend
-
-* Node.js
-* Express.js
-
-### Database
-
-* Firebase Firestore
-
-### Authentication
-
-* Firebase Authentication
+* Recharts
+* Zustand
 
 ### Artificial Intelligence
 
@@ -179,42 +167,7 @@ Our vision is to build an AI Productivity Operating System that serves as a pers
 
 ### Calendar Integration
 
-* Google Calendar API
-
-### Charts & Analytics
-
-* Recharts
-
-### State Management
-
-* Zustand
-
----
-
-# 📌 Current Project Status
-
-🚧 **Prototype / UI Concept Stage**
-
-This repository currently contains the UI prototype and product concept developed as part of a national-level hackathon.
-
-The complete AI functionality, backend services, database integration, authentication, and production features are under active development.
-
----
-
-# 🚀 Future Roadmap
-
-* AI-powered planning engine
-* Gemini integration
-* Smart scheduling algorithm
-* Google Calendar synchronization
-* Real-time notifications
-* Voice recognition
-* Habit intelligence
-* Productivity insights
-* Cross-platform support
-* Mobile application
-* Team collaboration
-* Cloud synchronization
+* Google Calendar OAuth Sync Simulator
 
 ---
 
@@ -229,14 +182,3 @@ Feel free to fork the repository, open issues, or submit pull requests to improv
 # 📄 License
 
 This project is currently developed for educational, research, and hackathon purposes.
-
-Future licensing details will be updated as the project evolves.
-
----
-
-## ⭐ If you like this project
-
-Consider giving this repository a ⭐ to support the project and follow its development journey.
-
-Together, let's build a smarter and more productive future with AI.
-# LifeSaver-AI
